@@ -1,0 +1,50 @@
+*{
+			margin: 0;
+			padding: 0;
+		}
+		.igs{
+			position: absolute;
+			width: 1100px;
+			height: 430px;
+			left: 50%;
+			margin-left:-550px; 
+			top: 50%;
+			margin-top:-215px; 
+		}
+		.ig{
+			float: left;
+		}
+		.txts{
+			width: 100px;
+			height: 430px;
+			background: rgba(0,0,0,.5);
+			cursor: pointer;
+		}
+		.txts p{
+			float: left;
+			margin: 14px;
+			color: #fff;
+			cursor: pointer;
+
+		}
+		.ig1{
+			background: url(../img/1.jpg)0 0 no-repeat;
+		}
+		.ig2{
+			background: url(../img/2.jpg)0 0 no-repeat;
+		}
+		.ig3{
+			background: url(../img/3.jpg)0 0 no-repeat;
+		}
+		.ig4{
+			background: url(../img/4.jpg)0 0 no-repeat;
+			width: 789px;
+		}
+		.p1{
+			width: 16px;
+			font-size: 16px;
+		}
+		.p2{
+			width: 16px;
+			font-size: 14px;
+		}
